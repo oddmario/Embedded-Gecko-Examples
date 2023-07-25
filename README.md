@@ -2,6 +2,10 @@
 
 An attempt to embed Gecko in a Qt application using Python
 
+<p align="center">
+  <img src="https://github.com/oddmario/Embedded-Gecko-Examples/blob/main/screenshots/GeckoEmbed_firstever.PNG?raw=true" />
+</p>
+
 ## How to run
 1. Install Firefox Portable (https://portableapps.com/apps/internet/firefox_portable) into the `src/firefox/base/FirefoxPortable` directory of this project. (The Firefox Portable version doesn't matter, this project at its current stage should be compatibile with all the Firefox versions ever introduced)
 
